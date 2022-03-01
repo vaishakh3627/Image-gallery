@@ -1,0 +1,21 @@
+.gallery-elements {
+ position: relative;
+ top: 23px;
+ right: 15px;
+}
+.container1 {
+    width: 100%;
+    min-height: 50vh;
+    display: flex;
+    flex-direction: row;
+}
+.imgcontainer {
+    width: 20%;
+    height: 20vh;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+img {
+    display: block;
+    cursor: pointer;
+}

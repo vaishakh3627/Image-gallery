@@ -1,0 +1,58 @@
+.background {
+  background-color: rgb(236, 240, 241);
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  height: 89vh;
+}
+.elements1 {
+  background-color: white;
+  border-radius: 25px 0px 0px 25px;
+}
+.elements2 {
+  background-color: rgb(9, 95, 148);
+  border-radius: 0px 25px 25px 0px;
+}
+.elements {
+  height: 73vh;
+  width: 125vh;
+  padding-left: 100px;
+}
+.text-content1 {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-weight: bolder;
+  color: rgb(104, 100, 100);
+}
+.text-content2 {
+    color: rgb(104, 100, 100);
+    font-size: 13px;
+}
+.text-elements {
+    padding: 2rem;
+}
+.line-content {
+    width: 11vh;
+    color: rgb(9, 95, 148);
+    border-radius: 0.5rem;
+}
+.text-content3 {
+    font-size: small;
+    font-weight: bold;
+}
+.button-content {
+    width: 13vh;
+    height: 13vh;
+    color: black;
+    align-items: center;
+    justify-content: center;
+    border-radius: 0.5rem;
+}
+.plus-icon {
+    font-size: 40px;
+    font-weight: 100;
+}
+.button-content1 {
+    position: absolute;
+    margin-top: 33vh;
+}
