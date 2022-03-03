@@ -1,0 +1,43 @@
+.gallery-elements {
+  position: relative;
+  top: 16px;
+  right: 12px;
+}
+.container1 {
+  width: 100%;
+  min-height: 50vh;
+  display: flex;
+  flex-direction: row;
+  padding-left: 20px;
+  padding-top: 30px;
+}
+.imgcontainer {
+  width: 20%;
+  height: 20vh;
+  margin-left: 10px;
+}
+img {
+  display: block;
+  cursor: pointer;
+}
+.container2 {
+    width: 97%;
+    height: 43vh;
+    border: 3px dotted rgb(109, 108, 108);
+}
+.container3 {
+    width: 120px;
+    height: 120px;
+    margin-top: 50px;
+    margin-left: 20rem;
+}
+.content-line {
+    margin-left: 15rem;
+}
+.content-line1 {
+    font-size: 13px;
+    margin-left: 8rem;
+}
+.content-button {
+    margin-left: 15rem;
+}
